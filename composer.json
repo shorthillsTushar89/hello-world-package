@@ -1,9 +1,9 @@
 {
-    "name": "shorthillsTushar89/hello-world-package",
+    "name": "testpackage/hello-world-package",
     "description": "A hello world composer private package.",
     "autoload": {
         "psr-4": {
-            "shorthillsTushar89\\HelloWorldPackage\\": "src/"
+            "testpackage\\HelloWorldPackage\\": "src/"
         }
     },
     "minimum-stability": "dev",
